@@ -52,8 +52,8 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with PHP 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone git@github.com:Jaelcio-de-Araujo/crudPHP.git
+   cd crudPHP
    ```
 
 2. **Ensure PHP 8.3 is Installed**
